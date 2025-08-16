@@ -1,0 +1,3 @@
+C:/Users/Resul Arslan/Desktop/Şifreler ve Özeller/C++/SuperMarioBros/build/CMakeFiles/SuperMarioBros.dir
+C:/Users/Resul Arslan/Desktop/Şifreler ve Özeller/C++/SuperMarioBros/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Resul Arslan/Desktop/Şifreler ve Özeller/C++/SuperMarioBros/build/CMakeFiles/ZERO_CHECK.dir
